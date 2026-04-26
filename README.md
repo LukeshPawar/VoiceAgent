@@ -1,4 +1,4 @@
-# Riverwood AI Voice Agent
+# AI Voice Agent
 
 A highly conversational, low-latency AI voice agent built for Riverwood Estate. This agent automates construction updates and site visit scheduling with a warm, human-like personality.
 
